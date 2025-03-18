@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1742293909 source:e:\codeblocksprojects\ballistic_calculator_reworked\vectoring.cpp
+	<iostream>
+	<cmath>
+
+1742216234 source:e:\codeblocksprojects\ballistic_calculator_reworked\input.cpp
+	<iostream>
+	<cmath>
+
+1742293866 source:e:\codeblocksprojects\ballistic_calculator_reworked\distanceandelevation.cpp
+	<iostream>
+	<cmath>
+	"struct.h"
+
+1742224821 source:e:\codeblocksprojects\ballistic_calculator_reworked\main.cpp
+	<iostream>
+	<cmath>
+	"struct.h"
+
+1742222773 e:\codeblocksprojects\ballistic_calculator_reworked\struct.h
+
+1742217590 source:e:\codeblocksprojects\ballistic_calculator_reworked\positioning.cpp
+	<iostream>
+	"struct.h"
+
+1742223402 source:e:\codeblocksprojects\ballistic_calculator_reworked\corrections.cpp
+	<iostream>
+	"struct.h"
+
+1742223402 source:e:\codeblocksprojects\ballistic_calculator_reworked rus\corrections.cpp
+	<iostream>
+	"struct.h"
+
+1742222773 e:\codeblocksprojects\ballistic_calculator_reworked rus\struct.h
+
+1742293866 source:e:\codeblocksprojects\ballistic_calculator_reworked rus\distanceandelevation.cpp
+	<iostream>
+	<cmath>
+	"struct.h"
+
+1742216234 source:e:\codeblocksprojects\ballistic_calculator_reworked rus\input.cpp
+	<iostream>
+	<cmath>
+
+1742224821 source:e:\codeblocksprojects\ballistic_calculator_reworked rus\main.cpp
+	<iostream>
+	<cmath>
+	"struct.h"
+
+1742217590 source:e:\codeblocksprojects\ballistic_calculator_reworked rus\positioning.cpp
+	<iostream>
+	"struct.h"
+
+1742293909 source:e:\codeblocksprojects\ballistic_calculator_reworked rus\vectoring.cpp
+	<iostream>
+	<cmath>
+
