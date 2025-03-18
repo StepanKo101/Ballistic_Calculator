@@ -13,7 +13,6 @@ using std::cout, std::cin;
 void rawVector (double x, double y)
 {
     double vectorRaw = atan2(x, y);
-    cout << "\nTEST\n" <<vectorRaw << "\nTEST\n";
     trueVectorCalc(vectorRaw);
     gameMilradsCalc(vectorRaw);
 }
@@ -29,10 +28,10 @@ void trueVectorCalc(double x)
     gameVectorCalc(x);
 }
 
-// Adjust for game's coordinate system (0° as north, clockwise rotation)
+// Adjust for game's coordinate system (0Â° as north, clockwise rotation)
 void gameVectorCalc (double x)
 {
-    x = 90 - x; // Rotate 90° counterclockwise
+    x = 90 - x; // Rotate 90Â° counterclockwise
     if (x < 0)
     {
         x += 360;
